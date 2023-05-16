@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "wdnet"]
+	path = wdnet
+	url = https://gitlab.com/wdnetwork/wdnet
+	shallow = true
+	registered = true
